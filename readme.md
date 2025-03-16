@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer | Competitive Programmer | Web Enthusiast</h3>
 
 <p align="center">
-  <img src="https://github.com/AbhishekUgale/AbhishekUgale/blob/main/banner.gif" width="90%">
+  <img src="https://github.com/ugaleabhi/ugaleabhi/blob/main/profile-banner.gif" width="90%">
 </p>
 
 ---
@@ -35,24 +35,35 @@
 ---
 
 ### 🔥 Projects  
-🎬 **[Movie Review](https://github.com/ugaleabhi/movie-review)** – A **React-based** movie review platform where users can review, rate, and explore movies  
+🚀 **[College Mart](https://github.com/your-repo)** – A college-based marketplace for students  
 🌟 **[Password Generator](https://github.com/your-repo)** – A secure and customizable password generator  
-💡 **[Sorting Visualizer](https://github.com/your-repo)** – A tool to visualize sorting algorithms  
+🎬 **[Movie Review](https://github.com/ugaleabhi/movie-review)** – A **React-based** movie review platform where users can review, rate, and explore movies  
 
 ---
 
 ### 📈 GitHub Stats  
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AbhishekUgale&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekUgale&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ugaleabhi&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ugaleabhi&theme=radical" />
 </p>
 
 ---
 
-### 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AbhishekUgale-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abhishek-ugale-a5b917226/)  
-[![Email](https://img.shields.io/badge/Email-ugaleabhishek34@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:ugaleabhishek34@gmail.com)  
-[![Instagram](https://img.shields.io/badge/Instagram-%40abhi_ugale_20-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/abhi_ugale_20)  
+### 🌍 Let's Connect  
+<p align="center">
+  <a href="https://www.linkedin.com/in/abhishek-ugale-a5b917226/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:ugaleabhishek34@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://instagram.com/abhi_ugale_20" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://x.com/abhi_ugale_20" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+</p>
 
 ---
 
