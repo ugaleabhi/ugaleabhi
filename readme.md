@@ -35,7 +35,7 @@
 ---
 
 ### 🔥 Projects  
-🚀 **[College Mart](https://github.com/your-repo)** – A college-based marketplace for students  
+🎬 **[Movie Review](https://github.com/ugaleabhi/movie-review)** – A **React-based** movie review platform where users can review, rate, and explore movies  
 🌟 **[Password Generator](https://github.com/your-repo)** – A secure and customizable password generator  
 💡 **[Sorting Visualizer](https://github.com/your-repo)** – A tool to visualize sorting algorithms  
 
