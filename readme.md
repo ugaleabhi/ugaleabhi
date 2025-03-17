@@ -10,8 +10,7 @@
 ### 🚀 About Me  
 🔹 **B.Tech** in Computer Science & Engineering at **NIT Agartala**  
 🔹 Passionate about **Data Structures & Algorithms**, **Web Development**, and **System Design**  
-🔹 Active on **LeetCode, CodeChef, and Codeforces**  
-🔹 Building **College Mart** – a marketplace for college students  
+🔹 Active on **LeetCode, CodeChef, and Codeforces**   
 🔹 Ex-Intern at **Adobe Career Academy Program**  
 
 ---
@@ -34,8 +33,7 @@
 
 ---
 
-### 🔥 Projects  
-🚀 **[College Mart](https://github.com/your-repo)** – A college-based marketplace for students  
+### 🔥 Projects   
 🌟 **[Password Generator](https://github.com/your-repo)** – A secure and customizable password generator  
 🎬 **[Movie Review](https://github.com/ugaleabhi/movie-review)** – A **React-based** movie review platform where users can review, rate, and explore movies  
 
