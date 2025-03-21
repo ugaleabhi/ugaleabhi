@@ -7,7 +7,7 @@
 
 ---
 
-### 🚀 About Me  
+### 🚀 About Me 
 🔹 **B.Tech** in Computer Science & Engineering at **NIT Agartala**  
 🔹 Passionate about **Data Structures & Algorithms**, Web Development
 🔹 Active on **LeetCode, CodeChef, and Codeforces**   
