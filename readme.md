@@ -12,7 +12,6 @@
 🔹 Passionate about **Data Structures & Algorithms**, Web Development 💻  
 🔹 Active on **LeetCode, CodeChef, and Codeforces** 👾  
 🔹 Ex-Intern at **Adobe Career Academy Program** 🌟  
-🔹 Building **College Mart**, an OLX-like platform for college students 🛒  
 
 ---
 
@@ -38,8 +37,7 @@
 
 ---
 
-### 🔥 Projects  
-🚀 **[College Mart](https://github.com/your-repo)** – An OLX-like website for college students to buy and sell items  
+### 🔥 Projects   
 🔐 **[Password Generator](https://github.com/your-repo)** – A secure and customizable password generator  
 🎥 **[Movie Review](https://github.com/ugaleabhi/movie-review)** – A **React-based** movie review platform  
 
