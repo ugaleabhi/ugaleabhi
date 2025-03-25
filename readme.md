@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Abhishek Ugale 👋</h1>
-<h3 align="center">Software Developer | Competitive Programmer | Web Enthusiast</h3>
+<h3 align="center">Software Developer | Competitive Programmer | Web Enthusiast 🚀</h3>
 
 <p align="center">
   <img src="https://github.com/ugaleabhi/ugaleabhi/blob/main/profile-banner.gif" width="90%">
@@ -7,42 +7,51 @@
 
 ---
 
-### 🚀 About Me 
-🔹 **B.Tech** in Computer Science & Engineering at **NIT Agartala**  
-🔹 Passionate about **Data Structures & Algorithms**, Web Development
-🔹 Active on **LeetCode, CodeChef, and Codeforces**   
-🔹 Ex-Intern at **Adobe Career Academy Program**  
+### 🚀 About Me  
+🔹 **B.Tech** in Computer Science & Engineering at **NIT Agartala** 🎓  
+🔹 Passionate about **Data Structures & Algorithms**, Web Development 💻  
+🔹 Active on **LeetCode, CodeChef, and Codeforces** 👾  
+🔹 Ex-Intern at **Adobe Career Academy Program** 🌟  
+🔹 Building **College Mart**, an OLX-like platform for college students 🛒  
 
 ---
 
-### 🏆 Coding Profiles  
-- 🚀 **LeetCode:** [@AbhishekUgale](https://leetcode.com/u/abhiugale208/)  
-- 🔥 **CodeChef:** [@AbhishekUgale](https://www.codechef.com/users/ugaleabhidshek)  
-- ⚡ **Codeforces:** [@AbhishekUgale](https://codeforces.com/profile/ugaleabhishek208)  
+### 🏅 Coding Profiles  
+<p align="center">
+  <a href="https://leetcode.com/u/abhiugale208/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+  <a href="https://www.codechef.com/users/ugaleabhidshek"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"></a>
+  <a href="https://codeforces.com/profile/ugaleabhishek208"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"></a>
+</p>
 
 ---
 
 ### 💻 Tech Stack  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</p>
 
 ---
 
-### 🔥 Projects   
-🌟 **[Password Generator](https://github.com/your-repo)** – A secure and customizable password generator  
-🎬 **[Movie Review](https://github.com/ugaleabhi/movie-review)** – A **React-based** movie review platform where users can review, rate, and explore movies  
+### 🔥 Projects  
+🚀 **[College Mart](https://github.com/your-repo)** – An OLX-like website for college students to buy and sell items  
+🔐 **[Password Generator](https://github.com/your-repo)** – A secure and customizable password generator  
+🎥 **[Movie Review](https://github.com/ugaleabhi/movie-review)** – A **React-based** movie review platform  
 
 ---
 
-### 📈 GitHub Stats  
+### 📊 GitHub Stats  
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ugaleabhi&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ugaleabhi&theme=radical" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ugaleabhi&theme=radical" width="90%" />
 </p>
 
 ---
@@ -65,4 +74,4 @@
 
 ---
 
-⭐ **If you like my work, consider giving a star to my repositories!** 🚀
+⭐ **If you enjoy my work, consider giving a ⭐ to my repositories!** 🚀  
