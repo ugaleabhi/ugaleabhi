@@ -11,7 +11,7 @@
 🔹 **B.Tech** in Computer Science & Engineering at **NIT Agartala** 🎓  
 🔹 Passionate about **Data Structures & Algorithms**, Web Development 💻  
 🔹 Active on **LeetCode, CodeChef, and Codeforces** 👾  
-🔹 Ex-Intern at **Adobe Career Academy Program** 🌟  
+🔹 Ex-Intern at **Adobe Career Academy Program** 🌟 
 
 ---
 
