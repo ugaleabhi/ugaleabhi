@@ -32,7 +32,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
 
-  <a href="https://www.geeksforgeeks.org/user/rjalgorithmyatras/" target="blank">
+  <a href="https://www.geeksforgeeks.org/user/abhishekubkbr/" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" height="30" width="40" />
   </a>
 
