@@ -36,7 +36,7 @@
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" height="30" width="40" />
   </a>
 
-  <a href="https://www.codechef.com/users/rjalgo" target="blank">
+  <a href="https://www.codechef.com/users/ugaleabhidshek" target="blank">
     <img align="center" src="https://cdn.codechef.com/images/cc-logo.svg" alt="CodeChef" height="30" width="40" />
   </a>
 </p>
