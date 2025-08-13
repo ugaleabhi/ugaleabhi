@@ -51,7 +51,7 @@
 
 ### 📌 Featured Projects
 
-#### 🔗 [Chatify](https://github.com/rajeevkumar-nita/Chatify)
+#### 🔗 [ChatFusion](https://github.com/ugaleabhi/ChatFusion)
 > 💬 Real-time chat app with instant messaging, user auth, and Socket.IO  
 > ⚙️ React.js, Node.js, Express, MongoDB, Socket.IO  
 
