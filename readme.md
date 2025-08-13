@@ -56,7 +56,7 @@
 > ⚙️ React.js, Node.js, Express, MongoDB, Socket.IO  
 
 
-#### 🔗 [Password Generator](https://github.com/rajeevkumar-nita/password-generator)
+#### 🔗 [Password Generator](https://github.com/ugaleabhi/password-generator)
 > 🔐 Secure password generator with customization and client-side validation  
 > ⚙️ HTML, CSS, JavaScript  
 
