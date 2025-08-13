@@ -1,75 +1,72 @@
-<h1 align="center">Hi there, I'm Abhishek Ugale 👋</h1>
-<h3 align="center">Software Developer | Competitive Programmer | Web Enthusiast 🚀</h3>
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rajeevkumar-nita.github.io)
 
-<p align="center">
-  <img src="https://github.com/ugaleabhi/ugaleabhi/blob/main/profile-banner.gif" width="90%">
+<h1 align="center">Hi 👋, I'm Abhishek Ugale</h1>
+<h3 align="center"> 🎓 B.Tech Graduate (2026) | Software Developer | MERN Stack | Competitive Programmer</h3>
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=rajeevkumar-nita&label=Profile%20views&color=0e75b6&style=flat" alt="rajeevkumar-nita" />
 </p>
+- 💻 Passionate about Software Development  
+- 🤝 Looking to collaborate on exciting tech **Full Stack Projects**  
+- 📫 Email: **ugaleabhishek34@gmail.com**  
+- 📞 Contact: **+91 9021679387**
 
 ---
 
-### 🚀 About Me  
-🔹 **B.Tech** in Computer Science & Engineering at **NIT Agartala** 🎓  
-🔹 Passionate about **Data Structures & Algorithms**, Web Development 💻  
-🔹 Active on **LeetCode, CodeChef, and Codeforces** 👾  
-🔹 Ex-Intern at **Adobe Career Academy Program** 🌟 
+### 🌐 Connect with me:
 
----
-
-### 🏅 Coding Profiles  
-<p align="center">
-  <a href="https://leetcode.com/u/abhiugale208/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
-  <a href="https://www.codechef.com/users/ugaleabhidshek"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"></a>
-  <a href="https://codeforces.com/profile/ugaleabhishek208"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"></a>
-</p>
-
----
-
-### 💻 Tech Stack  
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</p>
-
----
-
-### 🔥 Projects   
-🔐 **[Password Generator](https://github.com/your-repo)** – A secure and customizable password generator  
-🎥 **[Movie Review](https://github.com/ugaleabhi/movie-review)** – A **React-based** movie review platform  
-
----
-
-### 📊 GitHub Stats  
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ugaleabhi&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ugaleabhi&theme=radical" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ugaleabhi&theme=radical" width="90%" />
-</p>
-
----
-
-### 🌍 Let's Connect  
-<p align="center">
-  <a href="https://www.linkedin.com/in/abhishek-ugale-a5b917226/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<p align="left">
+  <a href="[(https://www.linkedin.com/in/abhishek-ugale-a5b917226/)]" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="mailto:ugaleabhishek34@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+
+  <a href="[(https://leetcode.com/u/Abhi_ugale/)]" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/abhi_ugale_20" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+
+  <a href="https://leetcode.com/Winter_Soldier_2002/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
-  <a href="https://x.com/abhi_ugale_20" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+
+  <a href="(https://www.geeksforgeeks.org/user/abhishekubkbr/)" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" height="30" width="40" />
+  </a>
+
+  <a href="(https://www.codechef.com/users/ugaleabhishek)" target="blank">
+    <img align="center" src="https://cdn.codechef.com/images/cc-logo.svg" alt="CodeChef" height="30" width="40" />
   </a>
 </p>
 
 ---
 
-⭐ **If you enjoy my work, consider giving a ⭐ to my repositories!** 🚀  
+### 💻 Languages and Tools
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,cpp,git,tailwind" />
+
+---
+
+### 📌 Featured Projects
+
+#### 🔗 [Chatter-Box](https://github.com/ugaleabhi/Chatter-Box)
+> 💬 Real-time chat app with instant messaging, user auth, and Socket.IO  
+> ⚙️ React.js, Node.js, Express, MongoDB, Socket.IO  
+
+
+#### 🔗 [Password Generator](https://github.com/ugaleabhi/password-generator)
+> 🔐 Secure password generator with customization and client-side validation  
+> ⚙️ HTML, CSS, JavaScript  
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajeevkumar-nita&show_icons=true&theme=dark" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeevkumar-nita&layout=compact&theme=dark" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajeevkumar-nita&theme=dark" width="96%" />
+</p>
